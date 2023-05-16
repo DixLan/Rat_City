@@ -7,6 +7,8 @@
 			"files": [
 				"D:/UE_Games/Rat_City/Rat_City/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/UE_Games/Rat_City/Rat_City/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset",
 				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OQ/PKAZYJ91VPRAP74K34L4QX.uasset",
 				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/P3/NL813LC75NVRWBLW12WVBM.uasset",
 				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7A/G7VVFEHJQ61IJC9NEU0KMQ.uasset",
@@ -23,7 +25,6 @@
 				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EY/MQV8NKTMMF76J3BZAM9B1S.uasset",
 				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/F9/5S91ABDBH0LFW09C94H2VU.uasset",
 				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1U/V9N4JB32GB9WQUIW5JF4KA.uasset",
-				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
 				"D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YM/YTW2ANWCCWUNT7W5ONOHJ8.uasset"
 			]
 		}
