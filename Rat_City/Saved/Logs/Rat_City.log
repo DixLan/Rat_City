@@ -1674,3 +1674,12 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.05.16-14.11.32:906][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 450 ms)
 [2023.05.16-14.11.32:911][998]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.05.16-14.11.32:911][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.16-14.13.24:569][363]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.16-14.13.24:692][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.16-14.13.25:165][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-14.13.25:230][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/UE_Games/Rat_City/Rat_City/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.05.16-14.13.25:253][400]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.16-14.13.25:254][400]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/BP_ThirdPersonCharacterB6E1E7DA41B35C8394E178886013786F.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.16-14.13.25:260][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 544 ms)
+[2023.05.16-14.13.25:267][400]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.16-14.13.25:267][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
