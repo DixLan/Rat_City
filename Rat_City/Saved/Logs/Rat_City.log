@@ -1364,3 +1364,61 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.05.16-16.08.39:611][ 72]BlueprintLog: New page: Compile BPC_PlayerStats
 [2023.05.16-16.08.39:701][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2023.05.16-16.08.44:270][453]LogSlate: Window 'BPC_PlayerStats' being destroyed
+[2023.05.16-16.14.53:175][403]LogDerivedDataCache: C:/Users/dpeti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.120 and deleted 0 files with total size 0 MiB. Scanned 4872 files in 4839 folders with total size 176 MiB.
+[2023.05.16-16.15.22:454][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-16.15.22:513][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2023.05.16-16.15.22:540][511]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2023.05.16-16.15.22:540][511]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/BPC_PlayerStatsB02EEF4C4F60347643F9F196960EF850.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset'
+[2023.05.16-16.15.22:545][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 664 ms)
+[2023.05.16-16.15.22:554][511]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2023.05.16-16.15.22:554][511]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2023.05.16-16.15.23:004][559]BlueprintLog: New page: Compile BPC_PlayerStats
+[2023.05.16-16.15.23:086][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.16-16.15.23:955][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-16.15.24:013][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2023.05.16-16.15.24:040][646]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2023.05.16-16.15.24:040][646]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/BPC_PlayerStatsE4EEDB1949FDDD7221D38583CC22AB2A.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset'
+[2023.05.16-16.15.24:045][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 753 ms)
+[2023.05.16-16.15.24:049][646]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2023.05.16-16.15.24:049][646]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2023.05.16-16.15.36:212][611]BlueprintLog: New page: Compile BPC_PlayerStats
+[2023.05.16-16.15.36:293][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.16-16.15.36:806][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-16.15.36:856][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2023.05.16-16.15.36:883][657]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2023.05.16-16.15.36:883][657]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/BPC_PlayerStats95D11C30484C0315C66024B5EB066A0B.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset'
+[2023.05.16-16.15.36:888][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 835 ms)
+[2023.05.16-16.15.36:897][657]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2023.05.16-16.15.36:897][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2023.05.16-16.17.16:099][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.16-16.17.16:101][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.045
+[2023.05.16-16.17.16:101][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2023.05.16-16.17.16:101][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2023.05.16-16.17.16:101][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="D:/UE_Games/Rat_City/Rat_City/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.05.16-16.17.16:128][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto2
+[2023.05.16-16.17.16:128][488]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/BPC_PlayerStats_Auto22793FE694303D5BC212D389C0F4C4DDF.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto2.uasset'
+[2023.05.16-16.17.16:128][488]LogFileHelpers: Auto-saving content packages took 0.028
+[2023.05.16-16.19.09:473][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-16.19.09:526][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2023.05.16-16.19.09:553][386]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2023.05.16-16.19.09:554][386]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/BPC_PlayerStats1C974D1F4B077339383B3B93BAE8BAF1.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset'
+[2023.05.16-16.19.09:559][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 921 ms)
+[2023.05.16-16.19.09:570][386]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2023.05.16-16.19.09:570][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2023.05.16-16.20.52:519][423]BlueprintLog: New page: Compile BPC_PlayerStats
+[2023.05.16-16.20.52:624][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.16-16.20.53:417][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-16.20.53:475][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2023.05.16-16.20.53:503][489]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2023.05.16-16.20.53:503][489]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/BPC_PlayerStatsDAB908CF49E32AC3E9557384E19649C0.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Content/Blueprints/BPC_PlayerStats.uasset'
+[2023.05.16-16.20.53:508][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.01 sec)
+[2023.05.16-16.20.53:516][489]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2023.05.16-16.20.53:516][489]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2023.05.16-16.21.34:735][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.16-16.21.36:880][751]LogSlate: Window 'Save Content' being destroyed
+[2023.05.16-16.21.36:885][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-16.21.36:947][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2023.05.16-16.21.36:947][751]LogSavePackage: Moving 'D:/UE_Games/Rat_City/Rat_City/Saved/TS5OQ5CRUWFZYL1ZQ7I416BA6A2EBE4FDAD0F0614CEA9C0F019A27.tmp' to 'D:/UE_Games/Rat_City/Rat_City/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2023.05.16-16.21.36:954][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.07 sec)
+[2023.05.16-16.21.36:959][751]AssetCheck: New page: Asset Save: DirectionalLight_0
+[2023.05.16-16.21.36:959][751]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
